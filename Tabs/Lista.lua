@@ -1,4 +1,4 @@
--- [[ Veja abaixo todos os jogos compatíveis com o Nexor Hub Universal]]
+-- [[ Veja abaixo todos os jogos compatíveis com o Nexor Hub Universal ]]
 
 local Players = game:GetService("Players")
 local TeleportService = game:GetService("TeleportService")
