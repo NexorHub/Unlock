@@ -18,9 +18,8 @@ NexorLib.UniversalScript = "https://raw.githubusercontent.com/NexorHub/Games/ref
 
 function NexorLib:Init(Rayfield, Window)
     local ListTab = Window:CreateTab("Lista", "dices")
-    
     ListTab:CreateSection("Veja abaixo todos os jogos compatíveis")
-    
+
     for _, gameId in ipairs(self.Games) do
         local success, gameInfo = pcall(function()
             return MarketplaceService:GetProductInfo(gameId)
@@ -30,9 +29,10 @@ function NexorLib:Init(Rayfield, Window)
             ListTab:CreateButton({
                 Name = gameInfo.Name,
                 Callback = function()
-                    
-                    ListTab:CreateLabel("Você escolheu: " .. gameInfo.Name .. " (ID: " .. gameId .. ")")
-                        
+                    if NexorLib.OnGameSelected then
+                        NexorLib.OnGameSelected(gameInfo.Name, gameId)
+                    end
+
                     Players.LocalPlayer.OnTeleport:Connect(function(State)
                         if State == Enum.TeleportState.Started then
                             queue_on_teleport(("loadstring(game:HttpGet('%s'))()"):format(NexorLib.UniversalScript))
@@ -49,8 +49,5 @@ function NexorLib:Init(Rayfield, Window)
 
     return ListTab
 end
-
-NexorLib.OnGameSelected = function(gameName, gameId)
-    
 
 return NexorLib
