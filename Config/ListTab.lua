@@ -23,7 +23,8 @@ NexorLib.Games = {
     121864768012064,
     8737899170,
     6516141723,
-    4924922222
+    4924922222,
+    99567941238278,
 }
 
 NexorLib.UniversalScript = "https://raw.githubusercontent.com/NexorHub/Games/refs/heads/main/Universal/Scripts.lua"
