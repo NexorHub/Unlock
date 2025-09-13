@@ -40,7 +40,7 @@ NexorLib.UniversalScript = "https://raw.githubusercontent.com/NexorHub/Games/ref
 
 function NexorLib:Init(Rayfield, Window)
     local ListTab = Window:CreateTab("Lista", "dices")
-    ListTab:CreateSection("Veja abaixo todos os jogos compatíveis")
+    ListTab:CreateSection("Veja abaixo todos os jogos compatíveis e Clique para entrar")
 
     for _, gameId in ipairs(self.Games) do
         local success, gameInfo = pcall(function()
