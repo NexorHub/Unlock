@@ -3,7 +3,8 @@ local avisoFile = "avisos[11].json"
 
 local mensagens = {
     "Aviso Rápido!!",
-    "Nexor Hub, agora esta funcionando normalmente no 99 noites"
+    "Você sabia que o Nexor Hub, também funciona em outros jogos?",
+    "Veja na aba Lista todos os jogos compatíveis com o Nexor Hub."
 }
 
 pcall(function()
