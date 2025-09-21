@@ -1,5 +1,11 @@
 return {
-    "ninjanight4328",
-    "Player123",
+    "Eikeunfivunfnv",
+    "pedrinusuariodecola",
+    "nxandin4",
+    "jpedro6579",
+    "Veras_yyt",
+    "Syrcaasuia",
+    "Lucas19737fitnes",
+    "KR_NEGAO",
     "Pirata_Trevas"
 }
