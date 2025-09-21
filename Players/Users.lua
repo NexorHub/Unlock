@@ -11,6 +11,6 @@ return {
     "Lucas19737fitnes",
     "KR_NEGAO",
     "rirutatu",
-    "rirutatu",
+    "Arlon_208",
     "Pirata_Trevas"
 }
