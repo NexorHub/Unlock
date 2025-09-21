@@ -10,5 +10,7 @@ return {
     "Dodoargak",
     "Lucas19737fitnes",
     "KR_NEGAO",
+    "rirutatu",
+    "rirutatu",
     "Pirata_Trevas"
 }
