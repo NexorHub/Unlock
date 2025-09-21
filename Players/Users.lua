@@ -12,5 +12,6 @@ return {
     "KR_NEGAO",
     "rirutatu",
     "Arlon_208",
+    "rirutatu",
     "Pirata_Trevas"
 }
