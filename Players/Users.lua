@@ -10,6 +10,8 @@ return {
     "Dodoargak",
     "Lucas19737fitnes",
     "KR_NEGAO",
+    "LipewIvI",
+    "Hashira2988",
     "BZX_OFMETA",
     "Marcoshs256",
     "rirutatu",
