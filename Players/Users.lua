@@ -12,6 +12,7 @@ return {
     "KR_NEGAO",
     "RIP_LUFFY04490",
     "bibibi_zaidumei",
+    "Little_GizaBan",
     "LipewIvI",
     "Hashira2988",
     "BZX_OFMETA",
