@@ -14,6 +14,7 @@ return {
     "bibibi_zaidumei",
     "Little_GizaBan",
     "LipewIvI",
+    "arpeu_player",
     "Hashira2988",
     "BZX_OFMETA",
     "Marcoshs256",
