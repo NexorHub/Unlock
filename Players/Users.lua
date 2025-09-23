@@ -20,6 +20,7 @@ return {
     "arpeu_player",
     "Hashira2988",
     "BZX_OFMETA",
+    "Luks_7638",
     "Marcoshs256",
     "rirutatu",
     "Arlon_208",
