@@ -15,6 +15,8 @@ return {
     "Masukiri",
     "antonioluiz679",
     "7uusjsj3",
+    "Tio_dogas",
+    "Higuruma_S",
     "meno_t244",
     "Calangode9caudafa",
     "Ryanzin5528BMMR",
