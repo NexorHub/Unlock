@@ -8,6 +8,7 @@ local NexorLib = {}
 NexorLib.__index = NexorLib
 
 NexorLib.Games = {
+    127742093697776,
     15101393044,
     9391468976,
     107573139811370,
