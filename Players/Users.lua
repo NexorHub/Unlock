@@ -14,6 +14,7 @@ return {
     "bibibi_zaidumei",
     "Masukiri",
     "rip_m4nozin",
+    "JunioCesarfps",
     "Antedeigmonds",
     "Gh4stPan",
     "hiago157777",
