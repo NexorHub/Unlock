@@ -13,6 +13,7 @@ return {
     "RIP_LUFFY04490",
     "bibibi_zaidumei",
     "Masukiri",
+    "rip_m4nozin",
     "Antedeigmonds",
     "Gh4stPan",
     "hiago157777",
