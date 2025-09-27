@@ -1,10 +1,10 @@
 local TextChatService = game:GetService("TextChatService")
-local avisoFile = "avisos[13].json"
+local avisoFile = "avisos[14].json"
 
 local mensagens = {
     "Oi Galera!! :)",
-    "Dia 24 e aniversário do Ethus 🥳🎉",
-    "Parabéns para mim 👏🏻🥳"
+    "Convide 3 pesssoas para usar o Nexor Hub",
+    "E ganhe um presente secreto!! 🎁👏🏻🥳"
 }
 
 pcall(function()
