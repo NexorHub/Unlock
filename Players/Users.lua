@@ -16,6 +16,7 @@ return {
     "rip_m4nozin",
     "JunioCesarfps",
     "ITz_Buberson",
+    "Leozinho47289",
     "douglasgpi9xd",
     "matheus_victor37",
     "luiz_fellipe12",
