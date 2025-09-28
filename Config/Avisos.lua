@@ -1,5 +1,5 @@
 local TextChatService = game:GetService("TextChatService")
-local avisoFile = "avisos[14].json"
+local avisoFile = "avisos[15].json"
 
 local mensagens = {
     "Oi Galera!! :)",
