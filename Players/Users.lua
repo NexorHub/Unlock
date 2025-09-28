@@ -11,6 +11,7 @@ return {
     "Lucas19737fitnes",
     "KR_NEGAO",
     "RIP_LUFFY04490",
+    "Tyyism",
     "Julio192283",
     "bibibi_zaidumei",
     "Masukiri",
