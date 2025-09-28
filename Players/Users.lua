@@ -19,6 +19,7 @@ return {
     "Gabriel09kw",
     "oryth1",
     "JunioCesarfps",
+    "Eokaua0001",
     "ITz_Buberson",
     "Leozinho47289",
     "douglasgpi9xd",
