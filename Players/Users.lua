@@ -14,6 +14,8 @@ return {
     "Thurzxwr",
     "Lucas19737fitnes",
     "makimastore35",
+    "Bacon_AtacanteOfc",
+    "hericleszera777",
     "Rekkuamk",
     "Arthurzinkk80",
     "KR_NEGAO",
