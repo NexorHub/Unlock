@@ -18,6 +18,7 @@ return {
     "hericleszera777",
     "Rekkuamk",
     "Arthurzinkk80",
+    "TiringaOfcial",
     "KR_NEGAO",
     "RIP_LUFFY04490",
     "Tyyism",
