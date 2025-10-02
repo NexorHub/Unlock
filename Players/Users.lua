@@ -13,6 +13,8 @@ return {
     "Dodoargak",
     "Lucas19737fitnes",
     "makimastore35",
+    "Rekkuamk",
+    "Arthurzinkk80",
     "KR_NEGAO",
     "RIP_LUFFY04490",
     "Tyyism",
