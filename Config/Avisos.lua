@@ -4,7 +4,7 @@ local avisoFile = "avisos[16].json"
 local mensagens = {
     "Oi Galera!! :)",
     "Alguem que for do servidor do Nexor Hub",
-    "Porem nos ajudar, aplicando inpulsos na comunidade?"
+    "Podem nos ajudar, aplicando inpulsos na comunidade?"
 }
 
 pcall(function()
