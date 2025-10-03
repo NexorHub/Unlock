@@ -4,8 +4,19 @@ local avisoFile = "avisos[16].json"
 local mensagens = {
     "Oi Galera!! :)",
     "Alguem que for do servidor do Nexor Hub",
-    "Podem nos ajudar, aplicando inpulsos na comunidade?"
+    "Porem nos ajudar, aplicando inpulsos na comunidade?"
 }
+
+local function CopiarLink(link)
+    if type(setclipboard) == "function" then
+        pcall(function()
+            setclipboard(link)
+        end)
+    end
+end
+
+local Rekonise = "discord.com/invite/rgrSMDrrM5"
+CopiarLink(Rekonise)
 
 pcall(function()
     if not isfile(avisoFile) then
