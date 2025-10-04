@@ -10,6 +10,7 @@ return {
     "YT_Nikiy",
     "roblox0282813",
     "Syrcaasuia",
+    "Night_owl0110",
     "JohnstonBear2",
     "Jubiclaudinho",
     "Dodoargak",
