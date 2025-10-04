@@ -11,6 +11,7 @@ return {
     "roblox0282813",
     "Syrcaasuia",
     "JohnstonBear2",
+    "Jubiclaudinho",
     "Dodoargak",
     "Thurzxwr",
     "rip_fudtruck",
