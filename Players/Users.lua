@@ -13,6 +13,8 @@ return {
     "JohnstonBear2",
     "Dodoargak",
     "Thurzxwr",
+    "rip_fudtruck",
+    "CLEITIND0GRAU157",
     "PinadorGod",
     "Lucas19737fitnes",
     "makimastore35",
