@@ -11,6 +11,7 @@ return {
     "YT_Nikiy",
     "roblox0282813",
     "SJKPM3",
+    "funnyvalentine_D4Ca",
     "AstaMDYZ",
     "Syrcaasuia",
     "Night_owl0110",
