@@ -1,5 +1,4 @@
 -- [[ Veja abaixo todos os jogos compatíveis com o Nexor Hub Universal ]]
-
 local Players = game:GetService("Players")
 local TeleportService = game:GetService("TeleportService")
 local MarketplaceService = game:GetService("MarketplaceService")
@@ -7,6 +6,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 local NexorLib = {}
 NexorLib.__index = NexorLib
 
+-- IDs dos jogos suportados
 NexorLib.Games = {
     93978595733734,
     110931811137535,
@@ -52,33 +52,49 @@ NexorLib.UniversalScript = "https://raw.githubusercontent.com/NexorHub/Games/ref
 
 function NexorLib:Init(Rayfield, Window)
     local ListTab = Window:CreateTab("Lista", "dices")
-    ListTab:CreateSection("Veja abaixo todos os jogos compatíveis e Clique para entrar")
+    ListTab:CreateSection("Veja abaixo todos os jogos compatíveis e clique para entrar")
+
+    local totalGames = #self.Games
+    local loadedCount = 0
 
     for _, gameId in ipairs(self.Games) do
-        local success, gameInfo = pcall(function()
-            return MarketplaceService:GetProductInfo(gameId)
-        end)
+        task.spawn(function()
+            local success, gameInfo = pcall(function()
+                return MarketplaceService:GetProductInfo(gameId)
+            end)
 
-        if success and gameInfo then
-            ListTab:CreateButton({
-                Name = gameInfo.Name,
-                Callback = function()
-                    if NexorLib.OnGameSelected then
-                        NexorLib.OnGameSelected(gameInfo.Name, gameId)
-                    end
-
-                    Players.LocalPlayer.OnTeleport:Connect(function(State)
-                        if State == Enum.TeleportState.Started then
-                            queue_on_teleport(("loadstring(game:HttpGet('%s'))()"):format(NexorLib.UniversalScript))
+            if success and gameInfo then
+                ListTab:CreateButton({
+                    Name = gameInfo.Name,
+                    Callback = function()
+                        if NexorLib.OnGameSelected then
+                            NexorLib.OnGameSelected(gameInfo.Name, gameId)
                         end
-                    end)
 
-                    TeleportService:Teleport(gameId, Players.LocalPlayer)
+                        Players.LocalPlayer.OnTeleport:Connect(function(State)
+                            if State == Enum.TeleportState.Started then
+                                queue_on_teleport(("loadstring(game:HttpGet('%s'))()"):format(NexorLib.UniversalScript))
+                            end
+                        end)
+
+                        TeleportService:Teleport(gameId, Players.LocalPlayer)
+                    end
+                })
+            else
+                warn("[NexorLib] Falha ao buscar nome para o jogo ID: " .. tostring(gameId))
+            end
+            loadedCount += 1
+            if loadedCount >= totalGames then
+                task.wait(0.5)
+                local Tabs = Window.Tabs or {}
+                for _, tab in pairs(Tabs) do
+                    if tab.Title ~= "Lista" then
+                        Rayfield:SelectTab(tab)
+                        break
+                    end
                 end
-            })
-        else
-            warn("[NexorLib] Falha ao buscar nome para o jogo ID: " .. tostring(gameId))
-        end
+            end
+        end)
     end
 
     return ListTab
