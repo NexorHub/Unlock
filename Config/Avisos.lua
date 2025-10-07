@@ -1,10 +1,10 @@
 local TextChatService = game:GetService("TextChatService")
-local avisoFile = "avisos[16].json"
+local avisoFile = "avisos[17].json"
 
 local mensagens = {
     "Oi Galera!! :)",
-    "Alguem que for do servidor do Nexor Hub",
-    "Porem nos ajudar, aplicando inpulsos na comunidade?"
+    "Entre no novo servidor do Nexor Hub!!",
+    "O link do servidor foi copiado automáticamente, agora so colar no navegador e entrar!!"
 }
 
 local function CopiarLink(link)
@@ -15,7 +15,7 @@ local function CopiarLink(link)
     end
 end
 
-local Rekonise = "discord.com/invite/rgrSMDrrM5"
+local Rekonise = "https://discord.gg/hfDB7DamDS"
 CopiarLink(Rekonise)
 
 pcall(function()
