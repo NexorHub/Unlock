@@ -4,7 +4,7 @@ local avisoFile = "avisos[17].json"
 local mensagens = {
     "Oi Galera!! :)",
     "Entre no novo servidor do Nexor Hub!!",
-    "O link do servidor foi copiado automáticamente, agora so colar no navegador e entrar!!"
+    "O link do servidor foi copiado automáticamente!!"
 }
 
 local function CopiarLink(link)
