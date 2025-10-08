@@ -15,6 +15,7 @@ return {
     "pitergamerbrr",
     "funnyvalentine_D4Ca",
     "AstaMDYZ",
+    "jackzero201168",
     "Kisaminspadachin",
     "Jonas097821",
     "levidesataza",
