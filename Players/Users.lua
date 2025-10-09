@@ -11,6 +11,7 @@ return {
     "walissonreigd38",
     "Veras_yyt",
     "BuruKAKAK5",
+    "levidesataza",
     "YT_Nikiy",
     "roblox0282813",
     "SJKPM3",
