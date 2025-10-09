@@ -13,6 +13,7 @@ return {
     "YT_Nikiy",
     "roblox0282813",
     "SJKPM3",
+    "Rip_falidodx",
     "pitergamerbrr",
     "funnyvalentine_D4Ca",
     "AstaMDYZ",
