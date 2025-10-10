@@ -16,6 +16,7 @@ return {
     "levidesataza",
     "YT_Nikiy",
     "roblox0282813",
+    "KAUAN_GAMER1789",
     "SJKPM3",
     "Rip_falidodx",
     "pitergamerbrr",
