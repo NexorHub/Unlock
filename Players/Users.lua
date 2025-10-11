@@ -22,6 +22,7 @@ return {
     "roblox0282813",
     "KAUAN_GAMER1789",
     "SJKPM3",
+    "jpricardo2000",
     "Rip_falidodx",
     "pitergamerbrr",
     "funnyvalentine_D4Ca",
