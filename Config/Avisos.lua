@@ -1,10 +1,10 @@
 local TextChatService = game:GetService("TextChatService")
-local avisoFile = "avisos[17].json"
+local avisoFile = "avisos[20].json"
 
 local mensagens = {
-    "Oi Galera!! :)",
-    "Entre no novo servidor do Nexor Hub!!",
-    "O link do servidor já foi copiado."
+    "Oi Usuario do meu script :)",
+    "Você sabia que o Nexor Hub tbm funciona em outro jogos?",
+    "Veja na Aba *🎲 Lista* o nome de todos os jogos compatíveis."
 }
 
 local function CopiarLink(link)
