@@ -14,6 +14,7 @@ return {
     "levidesataza",
     "Matheuszyrjmario",
     "Soulkingloiro",
+    "Dezakihy",
     "BuruKAKAK5",
     "levidesataza",
     "YT_Nikiy",
