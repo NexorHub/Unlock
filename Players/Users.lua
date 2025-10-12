@@ -14,6 +14,7 @@ return {
     "levidesataza",
     "Matheuszyrjmario",
     "dragon360k",
+    "Ryclasw",
     "Soulkingloiro",
     "JoaoVit3212D",
     "Kloppp996",
