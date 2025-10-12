@@ -15,6 +15,7 @@ return {
     "Matheuszyrjmario",
     "dragon360k",
     "Soulkingloiro",
+    "JoaoVit3212D",
     "Noob_guel255",
     "Dezakihy",
     "danqxy12",
