@@ -25,6 +25,7 @@ return {
     "BuruKAKAK5",
     "levidesataza",
     "YT_Nikiy",
+    "hasiodash",
     "roblox0282813",
     "KAUAN_GAMER1789",
     "SJKPM3",
