@@ -19,6 +19,8 @@ return {
     "Kloppp996",
     "Noob_guel255",
     "Dezakihy",
+    "VoidSlayerzx",
+    "sleeptwss",
     "danqxy12",
     "BuruKAKAK5",
     "levidesataza",
