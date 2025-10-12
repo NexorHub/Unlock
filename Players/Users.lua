@@ -18,6 +18,7 @@ return {
     "Ryclasw",
     "Soulkingloiro",
     "JoaoVit3212D",
+    "Joaozn70",
     "Kloppp996",
     "Noob_guel255",
     "Dezakihy",
