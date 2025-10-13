@@ -11,6 +11,7 @@ return {
     "X_AceZeus",
     "pdoaeNiqevL",
     "Surebec_Asuda",
+    "irmaozinho_dragon",
     "Hid1ey",
     "ananinha7f",
     "nativazinhho",
