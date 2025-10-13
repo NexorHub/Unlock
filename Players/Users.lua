@@ -6,6 +6,8 @@ return {
     "Dudunauter",
     "rodrigozin_k",
     "jpedro6579",
+    "paulupliniu",
+    "B7FFF",
     "X_AceZeus",
     "pdoaeNiqevL",
     "Surebec_Asuda",
