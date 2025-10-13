@@ -15,6 +15,7 @@ return {
     "ananinha7f",
     "nativazinhho",
     "pvmuuQpyMXA",
+    "Bhaionak",
     "PAIZIN244",
     "walissonreigd38",
     "hulkn61",
