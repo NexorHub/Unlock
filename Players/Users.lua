@@ -14,6 +14,7 @@ return {
     "irmaozinho_dragon",
     "Hid1ey",
     "ananinha7f",
+    "FischerPamy89",
     "Ajuji_jujai",
     "TiagoMv22",
     "Nk_wKunico777",
