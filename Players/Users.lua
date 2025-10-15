@@ -10,6 +10,7 @@ return {
     "B7FFF",
     "alissonfg1",
     "RONALDOFFP",
+    "InfernalZh",
     "Arthurpur1",
     "Contaweaklegacy10",
     "X_AceZeus",
