@@ -12,6 +12,7 @@ return {
     "Itz_StormCrow",
     "alissonfg1",
     "RONALDOFFP",
+    "e_simn",
     "InfernalZh",
     "Arthurpur1",
     "Contaweaklegacy10",
