@@ -8,6 +8,7 @@ NexorLib.__index = NexorLib
 
 -- IDs dos jogos suportados
 NexorLib.Games = {
+    1537690962,
     13076380114,
     12355337193,
     4855457388,
