@@ -15,6 +15,7 @@ return {
     "Surebec_Asuda",
     "irmaozinho_dragon",
     "Hid1ey",
+    "arthurgameplay468",
     "tavingamer2243",
     "ananinha7f",
     "FischerPamy89",
