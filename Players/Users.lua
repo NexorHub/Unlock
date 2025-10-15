@@ -8,6 +8,7 @@ return {
     "jpedro6579",
     "paulupliniu",
     "B7FFF",
+    "Regulano",
     "Itz_StormCrow",
     "alissonfg1",
     "RONALDOFFP",
