@@ -10,6 +10,7 @@ return {
     "Nk_wKunico777",
     "6sKYWALKER67",
     "B7FFF",
+    "Uzumaki_Henrlque",
     "THE_P1CE",
     "Ericalmeidapp",
     "Regulano",
