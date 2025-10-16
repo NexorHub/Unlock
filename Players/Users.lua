@@ -13,6 +13,7 @@ return {
     "alissonfg1",
     "RONALDOFFP",
     "e_simn",
+    "GALATICO638",
     "Dodoargak",
     "InfernalZh",
     "Arthurpur1",
