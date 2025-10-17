@@ -6,6 +6,7 @@ return {
     "Dudunauter",
     "rodrigozin_k",
     "jpedro6579",
+    "XIT2026",
     "paulupliniu",
     "Nk_wKunico777",
     "6sKYWALKER67",
