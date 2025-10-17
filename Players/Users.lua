@@ -15,6 +15,7 @@ return {
     "miguelbombado123456",
     "6sKYWALKER67",
     "B7FFF",
+    "AinzOoalGownSama3",
     "Uzumaki_Henrlque",
     "THE_P1CE",
     "Ericalmeidapp",
