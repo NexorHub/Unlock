@@ -9,6 +9,7 @@ return {
     "XIT2026",
     "Kaido_krlh",
     "paulupliniu",
+    "BRKakashigamer",
     "Nk_wKunico777",
     "miguelbombado123456",
     "6sKYWALKER67",
