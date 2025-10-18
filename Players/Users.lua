@@ -21,6 +21,7 @@ return {
     "Uzumaki_Henrlque",
     "THE_P1CE",
     "Ericalmeidapp",
+    "Karpeja5429",
     "Regulano",
     "arthumetalgreymon",
     "Itz_StormCrow",
