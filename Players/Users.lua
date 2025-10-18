@@ -15,6 +15,7 @@ return {
     "BRKakashigamer",
     "Nk_wKunico777",
     "miguelbombado123456",
+    "FusiOnBlizzard20115",
     "6sKYWALKER67",
     "B7FFF",
     "AinzOoalGownSama3",
