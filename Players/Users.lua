@@ -7,6 +7,7 @@ return {
     "rodrigozin_k",
     "jpedro6579",
     "XIT2026",
+    "paanfras",
     "Biel_Dias25",
     "mysterious_otter_21245",
     "lucaslindoxxxxx",
