@@ -9,6 +9,7 @@ return {
     "XIT2026",
     "Biel_Dias25",
     "lucaslindoxxxxx",
+    "Fusi0nBlizzard201185",
     "Kaido_krlh",
     "paulupliniu",
     "NomeNome024",
