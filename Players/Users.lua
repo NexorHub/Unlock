@@ -11,6 +11,7 @@ return {
     "lucaslindoxxxxx",
     "Kaido_krlh",
     "paulupliniu",
+    "NomeNome024",
     "BESTFANNYBR",
     "BRKakashigamer",
     "Nk_wKunico777",
