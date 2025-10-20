@@ -11,6 +11,7 @@ return {
     "gkagwid",
     "MemeSonic40",
     "minato4997655",
+    "Carteiro04",
     "Pedrinhocaio9",
     "Nk_wKunico777",
     "Biel_Dias25",
