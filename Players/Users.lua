@@ -8,6 +8,7 @@ return {
     "jpedro6579",
     "XIT2026",
     "paanfras",
+    "minato4997655",
     "Pedrinhocaio9",
     "Nk_wKunico777",
     "Biel_Dias25",
