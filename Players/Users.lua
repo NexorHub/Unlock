@@ -9,6 +9,7 @@ return {
     "XIT2026",
     "paanfras",
     "gkagwid",
+    "MemeSonic40",
     "minato4997655",
     "Pedrinhocaio9",
     "Nk_wKunico777",
