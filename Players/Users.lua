@@ -14,7 +14,7 @@ return {
     "mysterious_otter_21245",
     "lucaslindoxxxxx",
     "khbhbjbbkjbjbjbbbb",
-    "Desmondos",
+    "Desmonfos",
     "Fusi0nBlizzard201185",
     "Kaido_krlh",
     "paulupliniu",
