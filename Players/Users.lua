@@ -13,6 +13,8 @@ return {
     "mrback98",
     "mysterious_otter_21245",
     "lucaslindoxxxxx",
+    "khbhbjbbkjbjbjbbbb",
+    "Desmondos",
     "Fusi0nBlizzard201185",
     "Kaido_krlh",
     "paulupliniu",
