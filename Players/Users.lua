@@ -18,6 +18,7 @@ return {
     "minato4997655",
     "inosuke3241409",
     "Carteiro04",
+    "ansardefensa7x",
     "Pedrinhocaio9",
     "zuzuba2024",
     "Nk_wKunico777",
