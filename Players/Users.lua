@@ -16,6 +16,7 @@ return {
     "minato4997655",
     "Carteiro04",
     "Pedrinhocaio9",
+    "zuzuba2024",
     "Nk_wKunico777",
     "Biel_Dias25",
     "SEMPAIOdracir",
