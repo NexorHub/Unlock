@@ -5,6 +5,7 @@ return {
     "nxandin4",
     "Dudunauter",
     "rodrigozin_k",
+    "batatafrita2404",
     "jpedro6579",
     "XIT2026",
     "paanfras",
