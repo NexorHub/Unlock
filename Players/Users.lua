@@ -12,6 +12,7 @@ return {
     "Jovemlove7k",
     "gkagwid",
     "gomeslayer8",
+    "trainerekes",
     "inosuke3241409",
     "NIGHTMARE_20277",
     "setokaiba143",
