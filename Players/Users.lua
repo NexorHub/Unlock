@@ -13,6 +13,7 @@ return {
     "gkagwid",
     "gomeslayer8",
     "inosuke3241409",
+    "NIGHTMARE_20277",
     "setokaiba143",
     "LienNhuqsnv24964",
     "MemeSonic40",
