@@ -15,6 +15,7 @@ return {
     "trainerekes",
     "inosuke3241409",
     "NIGHTMARE_20277",
+    "brenoge",
     "setokaiba143",
     "LienNhuqsnv24964",
     "MemeSonic40",
